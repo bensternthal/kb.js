@@ -9,7 +9,7 @@ var KanbaneryClient = function(options) {
 KanbaneryClient.prototype = {
 
   test : function() {
-    return false;
+    return true;
   }
 
 }
